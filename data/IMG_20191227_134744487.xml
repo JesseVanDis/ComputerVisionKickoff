@@ -1,0 +1,39 @@
+
+<annotation>
+	<folder>all_resized_025</folder>
+	<filename>IMG_20191227_134744487.jpg</filename>
+	<path>/home/jesse/MainSVN/YoloMunten/data/all_resized_025/IMG_20191227_134744487.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>10</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>32</ymin>
+			<xmax>39</xmax>
+			<ymax>48</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>10</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>67</ymin>
+			<xmax>49</xmax>
+			<ymax>83</ymax>
+		</bndbox>
+	</object>
+</annotation>
